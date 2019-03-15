@@ -1,0 +1,4 @@
+com\qa\excelparametisation\WriteToExcel.class
+com\qa\excelparametisation\Testing.class
+com\qa\excelparametisation\ParaWithExcelTest.class
+com\qa\excelparametisation\ParaWithoutExcel.class

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.qa.excelparametisation.ParaWithExcel.java&apos; to &apos;ParaWithExcelTest.java&apos;&#x0D;&#x0A;- Original project: &apos;Excel&apos;&#x0D;&#x0A;- Original element: &apos;com.qa.excelparametisation.ParaWithExcel.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.qa.excelparametisation.ParaWithExcelTest.java&apos;" description="Rename compilation unit &apos;ParaWithExcel.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/test\/java&lt;com.qa.excelparametisation{ParaWithExcel.java" name="ParaWithExcelTest.java" references="false" stamp="1551370842192" version="1.0"/>
+</session>
